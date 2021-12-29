@@ -1,0 +1,18 @@
+{
+  "extends": ["standard"],
+  "rules": {
+    "jsx-quotes": 0,
+    "key-spacing": [
+      1, {
+        "afterColon": true,
+        "mode": "minimum"
+      }
+    ],
+    "no-multi-spaces": ["error", { "ignoreEOLComments": true }]
+  },
+  "parser": "@babel/eslint-parser",
+  "env": {
+    "jest": true,
+    "es6": true
+  }
+}

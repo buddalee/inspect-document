@@ -1,0 +1,11 @@
+/data
+/node_modules
+.env-production
+.env-development
+.env
+/ndcUpload
+/onePageUpload
+/isNaked.png
+/isStealth.png
+/logs
+/twcompanyDownloads
