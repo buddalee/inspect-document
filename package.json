@@ -33,6 +33,7 @@
     "puppeteer-extra-plugin-block-resources": "^2.2.9",
     "puppeteer-extra-plugin-recaptcha": "^3.3.8",
     "puppeteer-extra-plugin-stealth": "^2.7.6",
+    "request": "^2.88.2",
     "yarn": "^1.22.10"
   },
   "devDependencies": {
